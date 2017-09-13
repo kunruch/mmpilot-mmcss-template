@@ -1,20 +1,20 @@
 ---
 layout: 'default'
-title: 'MMPilot Basic Template'
-description: 'This is a basic starter template for MMPilot. It does not include any CSS framework or JavaScript libraries.'
+title: 'Home'
+description: 'This is a basic starter template for MMPilot which includes MMCSS Framework'
 ---
 
-This is a basic starter template for MMPilot - It doesn't include any CSS framework or JavaScript libraries.
+This is a basic starter template for MMPilot
 
 It has just the bare bone files and setup to kickstart your website with MMPilot.
 
 Feel free to add your own frameworks to the project. Turn it into a website or a webapp, the choice is yours.
 
-You may also want to check out other advanced [MMPilot templates](https://mmpilot.kunruchcreations.com/templates/), in case this template is too minimal for you.
+You may also want to check out other [MMPilot templates](https://mmpilot.kunruchcreations.com/templates/).
 
 ## How to use this template
 
-1. [Clone](https://github.com/kunruch/mmpilot-basic-template) or [download](https://github.com/kunruch/mmpilot-basic-template/archive/master.zip) this template.
+1. [Clone](https://github.com/kunruch/mmpilot-mmcss-template) or [download](https://github.com/kunruch/mmpilot-mmcss-template/archive/master.zip) this template.
 
 2. Install dependencies: ``npm install``
 
